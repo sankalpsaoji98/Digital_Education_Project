@@ -1,23 +1,21 @@
 ## Company and Position
 Worked as a **Research Assitant** in Dr.Conrad Gleber's group at **University of Rochester Medical Center**
-<img width="477" alt="image" src="https://github.com/sankalpsaoji98/Digital_Education_Project/assets/26198596/b97235ed-0429-42ec-b375-0460fd7fb330">
+<img width="623" alt="image" src="https://github.com/sankalpsaoji98/Digital_Education_Project/assets/26198596/c6a0ad7b-ebea-4667-bf3b-f73a66698d6d">
+
 
 ## Project
 **Initiating Evaluations for the Digital Education EcosystemProject:**
-Buffalo Solar has to promise a certain output to the customers when it sells solar panels. But, whenever snow falls on the panels, the energy output is reduced and it's hard to track it. So, the goal was to design a snow loss model to track the loss and give out correct estimates on the energy output.
+The Digital Education Project was developed to help reduce evaluation time of doctors and residents
 
 ## Table of Contents
 - [Software](#software)
 - [Data](#data)
-- [Model](#model)
 - [Results](#results)
 - [Acknowledgments](#acknowledgments)
 
 ## Software
-1) Heliscope
-2) VSC Code
-3) python3
-4) MS Excel
+1) python3
+2) MS Excel
 
 ## Data
 
