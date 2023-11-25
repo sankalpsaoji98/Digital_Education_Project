@@ -1,11 +1,9 @@
 ## Company and Position
-Worked as a **Research and Development Intern** at **Buffalo Solar**, a solar panel manufacturing company based out of Buffalo NY, United States.
-
-<img width="543" alt="image" src="https://github.com/sankalpsaoji98/Snow-Model-Project/assets/26198596/2f51bdca-c0ba-4bab-9393-0bf742d6836a">
-
+Worked as a **Research Assitant** in Dr.Conrad Gleber's group at **University of Rochester Medical Center**
+<img width="477" alt="image" src="https://github.com/sankalpsaoji98/Digital_Education_Project/assets/26198596/b97235ed-0429-42ec-b375-0460fd7fb330">
 
 ## Project
-**Snow Model Project:**
+**Initiating Evaluations for the Digital Education EcosystemProject:**
 Buffalo Solar has to promise a certain output to the customers when it sells solar panels. But, whenever snow falls on the panels, the energy output is reduced and it's hard to track it. So, the goal was to design a snow loss model to track the loss and give out correct estimates on the energy output.
 
 ## Table of Contents
