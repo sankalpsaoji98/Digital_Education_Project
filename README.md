@@ -33,5 +33,5 @@ The Digital Education Ecosystem Project was developed to help reduce evaluation 
 
 
 ## Acknowledgements
-The work was done for Buffalo Solar and is the property of the company.
+The work was done for University of Rochester Medical Center and is the property of the company.
 
