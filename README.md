@@ -1,5 +1,5 @@
 ## Company and Position
-Worked as a **Research Assitant** in Dr.Conrad Gleber's group at **University of Rochester Medical Center**
+Worked as a **Research Assitant** in Dr.Conrad Gleber's group at the **University of Rochester Medical Center**
 <img width="623" alt="image" src="https://github.com/sankalpsaoji98/Digital_Education_Project/assets/26198596/c6a0ad7b-ebea-4667-bf3b-f73a66698d6d">
 
 ## Project
