@@ -30,8 +30,9 @@ The Digital Education Ecosystem Project was developed to help reduce evaluation 
 
 <img width="907" alt="image" src="https://github.com/sankalpsaoji98/Digital_Education_Project/assets/26198596/83a91ba5-7bf7-435a-958f-87a7c42d4555">
 
+<img width="470" alt="image" src="https://github.com/sankalpsaoji98/Digital_Education_Project/assets/26198596/d4b38635-b0d6-4777-b890-080dc5f28c37">
 
+<img width="354" alt="image" src="https://github.com/sankalpsaoji98/Digital_Education_Project/assets/26198596/77c34924-118d-4ddc-b0db-61abf0676823">
 
 ## Acknowledgements
 The work was done for University of Rochester Medical Center and is the property of the company.
-
