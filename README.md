@@ -8,9 +8,9 @@ The Digital Education Ecosystem Project was developed to help reduce evaluation 
 
 ## Table of Contents
 - [Software](#software)
-- [Data Process](#data_process)
+- [Data Process](#data)
 - [Results](#results)
-- [Acknowledgments](#acknowledgments)
+- [Acknowledgements](#acknowledgements)
 
 ## Software
 1) python3
