@@ -3,8 +3,8 @@ Worked as a **Research Assitant** in Dr.Conrad Gleber's group at the **Universit
 <img width="623" alt="image" src="https://github.com/sankalpsaoji98/Digital_Education_Project/assets/26198596/c6a0ad7b-ebea-4667-bf3b-f73a66698d6d">
 
 ## Project
-**Initiating Evaluations for the Digital Education EcosystemProject:**
-The Digital Education Project was developed to help reduce evaluation time of doctor and resident evaluations.
+**Initiating Evaluations for Digital Education Ecosystem:**
+The Digital Education Ecosystem Project was developed to help reduce evaluation time of doctor and resident evaluations.
 
 ## Table of Contents
 - [Software](#software)
