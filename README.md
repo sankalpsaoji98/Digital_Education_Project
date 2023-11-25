@@ -16,7 +16,7 @@ The Digital Education Ecosystem Project was developed to help reduce evaluation 
 1) python3
 2) MS Excel
 
-## Data Process
+## Data
 
 <img width="937" alt="image" src="https://github.com/sankalpsaoji98/Digital_Education_Project/assets/26198596/66ad128b-fbd3-4f7e-8fe9-123cec91aef9">
 
